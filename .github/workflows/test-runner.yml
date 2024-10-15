@@ -48,6 +48,6 @@ jobs:
         with:
           name: test-results
           path: |
-                result.xml
+                results.xml
                 report.html
                 assets
